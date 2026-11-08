@@ -1,5 +1,4 @@
-![GitHub Banner](Developer profile banner (4).png)
-
+![GitHub Banner](<Developer profile banner (4).png>)
 <!--
 **luqq-md/luqq-md** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
